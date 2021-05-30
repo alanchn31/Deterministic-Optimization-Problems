@@ -1,2 +1,2 @@
-# linear-programming-problems
-A repository for practicing linear programming programs, coded in Python
+# Deterministic Optimization Problems
+A repository for practicing deterministic optimization, coded in Python
